@@ -1,4 +1,4 @@
-#cs
+# cs
 
 random map
 - maps ziehen
@@ -8,7 +8,7 @@ random map
 
 
 
-#reddit 
+# reddit 
 
 post puller
 - save post url for x days to avoid reposts
