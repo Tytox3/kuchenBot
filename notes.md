@@ -15,3 +15,5 @@ random map
 
 post puller
 - save post url for x days to avoid reposts
+- https://www.npmjs.com/package/memejs
+- https://www.npmjs.com/package/reddit-image-fetcher
