@@ -1,4 +1,4 @@
-# cs
+# cs:go
 
 random map
 - maps ziehen
