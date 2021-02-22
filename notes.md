@@ -1,4 +1,5 @@
-https://github.com/OwenCalvin/discord.ts
+discord ts?
+https://github.com/OwenCalvin/discord.ts ?
 
 
 # cs:go
