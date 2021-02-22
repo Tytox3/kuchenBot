@@ -1,3 +1,6 @@
+https://github.com/OwenCalvin/discord.ts
+
+
 # cs:go
 
 random map
